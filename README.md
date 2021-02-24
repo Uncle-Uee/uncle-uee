@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi 👋, I am Ubaidullah Effendi-Emjedi (Uee)
+
+- 🔭 I’m currently working on a few games and a few things in-between
+- 🌱 I’m currently learning CPP and shoot my shot at Unreal
+- 🤔 I’m looking for help with - Rotating a Turret towards Mouse Position in Unity using a Perspective Camera, please 😭
+- 💬 Ask me about Unity Development
+- 📫 How to reach me: LinkedIn or Discord (Uee#2899)
+- ⚡ Fun fact: Work Hard...seriously
 
 <!--
 **Uncle-Uee/uncle-uee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
