@@ -1,5 +1,6 @@
 # Hi 👋, I am Ubaidullah Effendi-Emjedi (Uee)
 
+![](https://komarev.com/ghpvc/?username=uncle-uee)
 - 🔭 I’m currently working on a few games and a few things in-between
 - 🌱 I’m currently learning CPP and shoot my shot at Unreal
 - 🤔 I’m looking for help with - Rotating a Turret towards Mouse Position in Unity using a Perspective Camera, please 😭
