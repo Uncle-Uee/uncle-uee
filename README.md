@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with - Rotating a Turret towards Mouse Position in Unity using a Perspective Camera, please 😭
 - 💬 Ask me about Unity Development
 - 📫 How to reach me: LinkedIn or Discord (Uee#2899)
-- ⚡ Fun fact: Work Hard...seriously
+- ⚡ Fun fact: Work hard, seriously do it!
 
 <!--
 **Uncle-Uee/uncle-uee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
