@@ -8,6 +8,8 @@
 - 📫 How to reach me: LinkedIn or Discord (Uee#2899)
 - ⚡ Fun fact: You do Lazy, you were never born Lazy!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncle-uee&show_icons=true&theme=radical)
+
 <!--
 **Uncle-Uee/uncle-uee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
