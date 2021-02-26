@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=uncle-uee)
 - 🔭 I’m currently working on a few games and a few things in-between
-- 🌱 I’m currently learning CPP and shoot my shot at Unreal
+- 🌱 I’m currently learning way to many things, but learning CPP to use Unreal!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Unity Development
 - 📫 How to reach me: LinkedIn or Discord (Uee#2899)
