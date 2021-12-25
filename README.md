@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=uncle-uee)
 - 🔭 I’m currently working on a Design Patterns in Unity and Python Django
-- 🌱 I’m currently focusing on my Thesis and learning some Backend tech like Python Django and Java SpringBoot!
+- 🌱 I’m currently focusing on my new Job and Unity!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Unity Development
 - 📫 How to reach me: LinkedIn or Discord (Uee#2899)
