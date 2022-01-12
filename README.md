@@ -1,12 +1,12 @@
 # Hi 👋, I am Ubaidullah Effendi-Emjedi (Uee)
 
 ![](https://komarev.com/ghpvc/?username=uncle-uee)
-- 🔭 I’m currently working on a Design Patterns in Unity and Python Django
-- 🌱 I’m currently focusing on my new Job and Unity!
+- 🔭 I’m currently working on a game
+- 🌱 I’m currently focusing on my Job and Campus work!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Unity Development
 - 📫 How to reach me: LinkedIn or Discord (Uee#2899)
-- ⚡ Fun fact: You do Lazy, you were never born Lazy!
+- ⚡ Qoute: “Surely in the remembrance of Allah do hearts find comfort” [Quran 13:28]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncle-uee&show_icons=true&theme=radical)
 
