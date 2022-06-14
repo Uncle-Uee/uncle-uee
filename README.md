@@ -1,4 +1,4 @@
-# Hi 👋, I am Ubaidullah Effendi-Emjedi (Uee)
+# Hi 👋, I am Uee
 
 ![](https://komarev.com/ghpvc/?username=uncle-uee)
 - 🔭 I’m currently working on a game
