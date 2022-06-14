@@ -5,7 +5,7 @@
 - 🌱 I’m currently focusing on my Job and Campus work!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Unity Development
-- 📫 How to reach me: LinkedIn or Discord (Uee#2899)
+- 📫 How to reach me: Discord (Uee#2899)
 - ⚡ Qoute: “Surely in the remembrance of Allah do hearts find comfort” [Quran 13:28]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncle-uee&show_icons=true&theme=radical)
