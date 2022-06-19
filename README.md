@@ -1,6 +1,5 @@
 # Hi 👋, I am Uee
 
-![](https://komarev.com/ghpvc/?username=uncle-uee)
 - 🔭 I’m currently working on a game
 - 🌱 I’m currently focusing on my Job and Campus work!
 - 🤔 I’m looking for help with ...
