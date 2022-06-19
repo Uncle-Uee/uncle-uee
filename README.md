@@ -7,7 +7,7 @@
 - 💬 Ask me about Unity Development
 - 📫 How to reach me: Discord (Uee#2899)
 - ⚡ Qoute: “Surely in the remembrance of Allah do hearts find comfort” [Quran 13:28]
-- 👽 Icon: Created by [Vyrell](https://vryell.itch.io/) 
+- 👽 Profile Picture: Comes from Asset pack Created by [Vyrell](https://vryell.itch.io/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncle-uee&show_icons=true&theme=radical)
 
