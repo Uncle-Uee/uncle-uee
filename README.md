@@ -1,6 +1,6 @@
 # Hi 👋, I am Uee
 
-- 🔭 I’m currently working on a game
+- 🔭 I’m currently working on [pending]
 - 🌱 I’m currently focusing on my Job and Campus work!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Unity Development
