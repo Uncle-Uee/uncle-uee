@@ -8,7 +8,7 @@
 - ⚡ Qoute: “Surely in the remembrance of Allah do hearts find comfort” [Quran 13:28]
 - 👽 Profile Picture: Comes from Asset pack Created by [Vyrell](https://vryell.itch.io/) 
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=uncle-uee&include_orgs=true&theme=gruvbox)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uncle-uee&include_orgs=true&theme=gruvbox)]
 
 <!--
 **Uncle-Uee/uncle-uee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
