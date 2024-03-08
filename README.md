@@ -2,10 +2,8 @@
 
 - 🔭 I’m currently working on [pending]
 - 🌱 I’m currently focusing on my Job and Campus work!
-- 💬 Ask me about Unity Development
-- 📫 How to reach me: Discord (Uee#2899)
 - ⚡ Qoute: “Surely in the remembrance of Allah do hearts find comfort” [Quran 13:28]
-- 👽 Profile Picture: Comes from Asset pack Created by [Vyrell](https://vryell.itch.io/) 
+- 👽 Profile Picture: Created by [Vyrell](https://vryell.itch.io/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=uncle-uee&include_orgs=true&theme=gruvbox)
 
@@ -23,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💬 Ask me about Unity Development
+- 📫 How to reach me: Discord (Uee#2899)
 -->
