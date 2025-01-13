@@ -1,7 +1,7 @@
 # Hi 👋, I am Uee
 
-- 🔭 I’m currently working on [pending]
-- 🌱 I’m currently focusing on my Job and Campus work!
+- 🔭 I’m currently working on a possible game and upskilling.
+- 🌱 I’m currently focusing on my Job.
 - ⚡ Qoute: “Surely in the remembrance of Allah do hearts find comfort” [Quran 13:28]
 
 
