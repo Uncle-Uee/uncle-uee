@@ -4,9 +4,6 @@
 - 🌱 I’m currently focusing on my Job.
 - ⚡ Qoute: “Surely in the remembrance of Allah do hearts find comfort” [Quran 13:28]
 
-
-![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=uncle-uee&include_orgs=true&theme=gruvbox)
-
 <!--
 **Uncle-Uee/uncle-uee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
